@@ -21,14 +21,7 @@ with open(output_file, 'w') as file:
 print("Wordlist", output_file, "Success...")
 ```
 
+------
 
-
-
-
-
-
-```
-
-
-
+- Code By XSVSCyb3r
 
